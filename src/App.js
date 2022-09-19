@@ -5,7 +5,7 @@ function App() {
   return (
     <h2>
       reviews project setup
-      <GiAbstract079 />
+      <GiAbstract079 className="icon" />
     </h2>
   );
 }
